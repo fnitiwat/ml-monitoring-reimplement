@@ -4,5 +4,7 @@
 - load test
 
 # TODO
-- [] understand how grafana + prometheus work
-- [] understand how to connect FastAPI with prometheus
+- [x] understand how grafana + prometheus work
+- [x] understand how to connect FastAPI with prometheus
+- [] understand promql
+- [] undestand create custom metric 
