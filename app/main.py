@@ -12,7 +12,6 @@ instrumentator.instrument(app).expose(app)
 async def root():
     return "helloworld"
 
-
 @app.get("/predict")
 async def predict():
     """
