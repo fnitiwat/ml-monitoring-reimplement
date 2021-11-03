@@ -6,7 +6,7 @@
 # TODO
 - [x] understand how grafana + prometheus work
 - [x] understand how to connect FastAPI with prometheus
-- [] understand promql
+- [x] understand promql
 - [] undestand create custom metric 
 
 # Monitor List
