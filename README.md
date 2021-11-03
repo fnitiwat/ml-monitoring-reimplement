@@ -8,3 +8,8 @@
 - [x] understand how to connect FastAPI with prometheus
 - [] understand promql
 - [] undestand create custom metric 
+
+# Monitor List
+- [] percentage of each pred_class 
+- [] alert pred prob lower than threshold
+- [] process time
